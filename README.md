@@ -28,7 +28,7 @@ Danfeng Hong, Xin Wu, Lianru Gao, Bing Zhang, Jocelyn Chanussot. Learning Locali
 
 How to use it?
 ---------------------
-The data used in this paper can be download from baiduyun() with access code:
+The data used in this paper can be download from [baiduyun](https://pan.baidu.com/s/1BhkJTuXWCkIjYVl9vVGcAQ) with access code: se6x
 
 The code of LCSC used in this paper refers to the CVPR paper tilted "Locality-constrained Linear Coding for Image Classification", which is available from the [website](http://www.ifp.illinois.edu/~jyang29/LLC.htm).
 
