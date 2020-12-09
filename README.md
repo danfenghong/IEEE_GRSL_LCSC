@@ -1,4 +1,4 @@
-# Deep Encoder-Decoder Networks for Classification of Hyperspectral and LiDAR Data
+# Learning Locality-Constrained Sparse Coding for Spectral Enhancement of Multispectral Imagery
 
 [Danfeng Hong](https://sites.google.com/view/danfeng-hong), [Xin Wu](https://scholar.google.com/citations?user=XzV9xYIAAAAJ&hl=en), [Lianru Gao](https://scholar.google.com/citations?hl=en&user=f6OnhtcAAAAJ), [Bing Zhang](http://english.radi.cas.cn/Education/PhDS/201401/t20140109_115415.html), [Jocelyn Chanussot](http://jocelyn-chanussot.net/)
 
