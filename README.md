@@ -6,7 +6,7 @@ ___________
 
 The code in this toolbox implements the ["Learning Locality-Constrained Sparse Coding for Spectral Enhancement of Multispectral Imagery"](https://ieeexplore.ieee.org/document/9179756). More specifically, it is detailed as follow.
 
-![alt text](./Motivation.png)
+![alt text](./workflow_LCSC.png)
 
 
 Citation
